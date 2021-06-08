@@ -1,0 +1,89 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 22.01.2021 16:16:36
+
+newmtl Wall_Main
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.9569 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka 1_Mainwall.tga
+	map_Kd 1_Mainwall.tga
+	map_bump 1_Mainwall_bumpmap.tga
+	bump 1_Mainwall_bumpmap.tga
+
+newmtl Canteen
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 0.2902 0.0000
+	Kd 1.0000 0.2902 0.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Ceiling
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.1843 0.1059
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Jack Gilmour fixed\Desktop\UNI WORK\Year 3\Indie game project\Level_V1\Textures (tga)\10_Ceilingtile.tga
+	map_Kd C:\Users\Jack Gilmour fixed\Desktop\UNI WORK\Year 3\Indie game project\Level_V1\Textures (tga)\10_Ceilingtile.tga
+	map_bump C:\Users\Jack Gilmour fixed\Desktop\UNI WORK\Year 3\Indie game project\Level_V1\Bumpmap\12_Ceilingtile_bumpmap.tga
+	bump C:\Users\Jack Gilmour fixed\Desktop\UNI WORK\Year 3\Indie game project\Level_V1\Bumpmap\12_Ceilingtile_bumpmap.tga
+
+newmtl First_area_floor
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Jack Gilmour fixed\Desktop\UNI WORK\Year 3\Indie game project\Level_V1\Textures (tga)\14_1st_area_floor.tga
+	map_Kd C:\Users\Jack Gilmour fixed\Desktop\UNI WORK\Year 3\Indie game project\Level_V1\Textures (tga)\14_1st_area_floor.tga
+	map_bump C:\Users\Jack Gilmour fixed\Desktop\UNI WORK\Year 3\Indie game project\Level_V1\Bumpmap\14_1st_area_floor_bumpmap.tga
+	bump C:\Users\Jack Gilmour fixed\Desktop\UNI WORK\Year 3\Indie game project\Level_V1\Bumpmap\14_1st_area_floor_bumpmap.tga
+
+newmtl Window_sill
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Jack Gilmour fixed\Desktop\UNI WORK\Year 3\Indie game project\Level_V1\Textures (tga)\22_Windowsill.tga
+	map_Kd C:\Users\Jack Gilmour fixed\Desktop\UNI WORK\Year 3\Indie game project\Level_V1\Textures (tga)\22_Windowsill.tga
+
+newmtl Window_Glass
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_d C:\Users\Jack Gilmour fixed\Desktop\UNI WORK\Year 3\Indie game project\Level_V1\Textures (tga)\23_windowglass.tga

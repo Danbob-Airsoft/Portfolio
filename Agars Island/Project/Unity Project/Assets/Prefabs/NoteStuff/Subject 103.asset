@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12a3c23a4d8c9b0469ad1489dc1e832f, type: 3}
+  m_Name: Subject 103
+  m_EditorClassIdentifier: 
+  title: Subject 103
+  description: 'Subject 103 has recently displayed more aggrevated behaviour than
+    normal.
+
+
+
+    This could be linked to the increased dosage of 307B rather than
+    the isolation of being in the cell.'
