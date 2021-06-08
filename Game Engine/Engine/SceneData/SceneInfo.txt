@@ -1,0 +1,8 @@
+Crate Count:
+10
+AI Count:
+4
+Player x Spawn Point
+200
+Player y Spawn Point
+200

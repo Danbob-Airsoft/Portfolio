@@ -1,0 +1,84 @@
+﻿  BackgroundTile.cpp
+g:\uni\portfolio\uni year 2\game engine dev\engine\backgroundtile.cpp(67): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+g:\uni\portfolio\uni year 2\game engine dev\engine\backgroundtile.cpp(68): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+g:\uni\portfolio\uni year 2\game engine dev\engine\backgroundtile.cpp(77): warning C4018: '<=': signed/unsigned mismatch
+g:\uni\portfolio\uni year 2\game engine dev\engine\backgroundtile.cpp(79): warning C4018: '<=': signed/unsigned mismatch
+  Random Engine.cpp
+  Renderer.cpp
+g:\uni\portfolio\uni year 2\game engine dev\engine\renderer.cpp(27): warning C4018: '<': signed/unsigned mismatch
+g:\uni\portfolio\uni year 2\game engine dev\engine\renderer.cpp(38): warning C4018: '<': signed/unsigned mismatch
+g:\uni\portfolio\uni year 2\game engine dev\engine\renderer.cpp(56): warning C4018: '<': signed/unsigned mismatch
+g:\uni\portfolio\uni year 2\game engine dev\engine\renderer.cpp(67): warning C4018: '<': signed/unsigned mismatch
+  Scene.cpp
+g:\uni\portfolio\uni year 2\game engine dev\engine\scene.cpp(80): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+g:\uni\portfolio\uni year 2\game engine dev\engine\scene.cpp(97): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+g:\uni\portfolio\uni year 2\game engine dev\engine\scene.cpp(128): warning C4018: '<': signed/unsigned mismatch
+g:\uni\portfolio\uni year 2\game engine dev\engine\scene.cpp(173): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+g:\uni\portfolio\uni year 2\game engine dev\engine\scene.cpp(206): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+g:\uni\portfolio\uni year 2\game engine dev\engine\scene.cpp(225): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+g:\uni\portfolio\uni year 2\game engine dev\engine\scene.cpp(234): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+g:\uni\portfolio\uni year 2\game engine dev\engine\scene.cpp(239): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+g:\uni\portfolio\uni year 2\game engine dev\engine\scene.cpp(244): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+g:\uni\portfolio\uni year 2\game engine dev\engine\scene.cpp(249): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+g:\uni\portfolio\uni year 2\game engine dev\engine\scene.cpp(253): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+g:\uni\portfolio\uni year 2\game engine dev\engine\scene.cpp(269): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+g:\uni\portfolio\uni year 2\game engine dev\engine\scene.cpp(279): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+g:\uni\portfolio\uni year 2\game engine dev\engine\scene.cpp(292): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Random Engine.vcxproj -> G:\Uni\Portfolio\Uni Year 2\Game Engine Dev\Engine\Debug\Random Engine.exe
